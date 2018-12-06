@@ -1,8 +1,8 @@
 <?php
     $host = "127.0.0.1";
-    $user = "lmillard";
+    $user = "alexlien";
     $pass = "";
-   $db = "sample_db";
+   $db = "food_db";
     $port = 3306;
  ?>
 
