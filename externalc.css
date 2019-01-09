@@ -1,0 +1,17 @@
+.whywe {
+  position: relative;
+  text-align: center;
+}
+.title {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size:50;
+}
+.info {
+  position: absolute;
+  top: 80px;
+  left: 30px;
+  font-size:25;
+}
